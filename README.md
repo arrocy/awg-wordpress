@@ -1,4 +1,4 @@
-# AWG WordPress
+# AWG WooCommerce
 
 - Arrocy Whatsapp Gateway integration for Wordpress/Woocommerce and more
 
