@@ -1,11 +1,17 @@
-# AWG WooCommerce
+# AWG Cloud WordPress/WooCommerce
 
-- Arrocy Whatsapp Gateway integration for Wordpress/Woocommerce and more
+Arrocy Whatsapp Gateway integration for WordPress/WooCommerce system. This Module is for adding WhatsApp OTP and WhatsApp Notifications features.
 
-# Settings
+# Installation
 
-- Arrocy Whatsapp Gateway URL: https://arrocy.com/api/send
-- Token: Login/Register arrocy.com, add instance, copy the token.
+1. Upload and extract the zip file on to /wp-content/plugins/ folder.
+2. You will see 'awgcloud' folder created inside /Module folder.
+3. Login as admin to wordpress.
+4. Go to Plugins -> Installed Plugins -> Activate Awg Cloud.
+5. Now Awg Cloud Menu is created. Go to Awg Cloud -> Settings
+6. Enter AWG Cloud Token -> Enter Test phone number -> click Send Test Message button.
+7. Send Test Message -> OK -> click Slider/Checkbox to enable the module.
+8. SAVE!
 
 # Templates
 
