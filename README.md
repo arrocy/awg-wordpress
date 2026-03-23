@@ -5,7 +5,7 @@ Arrocy Whatsapp Gateway integration for WordPress/WooCommerce system. This Modul
 # Installation
 
 1. Upload and extract the zip file on to /wp-content/plugins/ folder.
-2. You will see 'awgcloud' folder created inside /Module folder.
+2. You will see 'awgcloud' folder created inside /plugins folder.
 3. Login as admin to wordpress.
 4. Go to Plugins -> Installed Plugins -> Activate Awg Cloud.
 5. Now Awg Cloud Menu is created. Go to Awg Cloud -> Settings
